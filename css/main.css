@@ -15,4 +15,5 @@ body {
 section {
     background-color: #fff;
     border-radius: 1em;
+    width: 380px;
 }
