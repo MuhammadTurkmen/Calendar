@@ -19,3 +19,7 @@ section {
     padding: 2em;
     margin: 20em auto;
 }
+
+header {
+    display: flex;
+}
