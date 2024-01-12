@@ -25,3 +25,8 @@ header {
     justify-content: space-between;
     margin: 1em 0;
 }
+
+h1 {
+    margin: 0;
+    
+}
