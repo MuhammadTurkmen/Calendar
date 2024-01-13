@@ -53,4 +53,8 @@ a {
     color: gray;
 }
 
+span {
+    cursor: pointer;
+}
+
 
