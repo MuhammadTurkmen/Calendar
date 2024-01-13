@@ -39,3 +39,6 @@ a {
     border-radius: .3em;
 }
 
+.calendar {
+    display: grid;
+}
